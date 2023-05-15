@@ -18,5 +18,5 @@ This project was a way for me to understand how to create a data pipleline using
 - bin/kafka-server-start.sh config/server.properties
 
 ## Images of AWS S3 & Athena
-![AWS S3][AWS-S3-SS.png]
-![AWS Athena][AWS-Athena-SS.png]
+![AWS S3](AWS-S3-SS.png)
+![AWS Athena](AWS-Athena-SS.png)
